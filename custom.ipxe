@@ -5,7 +5,7 @@
 
 goto ${menu} ||
 
-:centos
+:customcentos
 clear osversion
 set os UnixHeads CentOS
 set mirror centos.unixheads.org
